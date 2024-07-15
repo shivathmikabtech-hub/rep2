@@ -1,5 +1,4 @@
 # rep2
-enti saaaaaar mak idhi
 /* Global Styles */
 body {
   font-family: Arial, sans-serif;
